@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi im Reham Khan 👋  
+I am a student in Computer Science and Artificial Intelligence
+I am interested in software development, machine learning, and solving real-world problems using technology
 
-<!--
-**rehamkhan2005/rehamkhan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on practical projects to continuously improve my skills, and I am always eager to learn new technologies and build smart, efficient solutions🤖🦾.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+
+#### 💻 Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,bash)](https://skillicons.dev)
+
+
+
+
+#### 🗄️ Backend & Databases
+[![Backend & Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
