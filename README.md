@@ -1,4 +1,4 @@
-Hi im Reham Khan 👋  
+Hi, I'm Reham Khan 👋  
 I am a student in Computer Science and Artificial Intelligence
 I am interested in software development, machine learning, and solving real-world problems using technology
 
